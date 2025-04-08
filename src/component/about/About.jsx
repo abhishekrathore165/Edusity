@@ -11,7 +11,11 @@ const About = ({setPlayState}) => {
       </div>
       <div className="aboutright">
         <h3>ABOUT UNIVERSITY</h3>
+<<<<<<< HEAD
         <h2>dhaishdauigfdiagifuagido</h2>
+=======
+        <h3>kanu rathore</h3>
+>>>>>>> kanu
         <h2>Nurturing Tomorrow's Leader Today</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur neque explicabo alias tempora repellat voluptatum, doloribus reprehenderit iusto hic maxime dolores sapiente tenetur quisquam animi veritatis. Fugiat at cum non!</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo quaerat a neque architecto, maxime voluptatum consectetur non ea. Doloremque repellat pariatur cum! Vero alias necessitatibus quis minima amet vel nulla optio voluptates, dolorum illo blanditiis doloremque, veniam nostrum iste nihil!</p>
