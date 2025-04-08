@@ -20,6 +20,7 @@ const About = ({setPlayState}) => {
 =======
         <h2>dhaishdauigfdiagifuagido</h2>
         <h3>kanu rathore ahdbahdhiouhdisaiuduig</h3>
+        <h5>start company and do thinks</h5>
         <h5>now to do things </h5>
 >>>>>>> kanu
         <h2>Nurturing Tomorrow's Leader Today</h2>
